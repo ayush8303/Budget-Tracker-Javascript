@@ -48,8 +48,6 @@ You can access the budget tracker site by clicking on the following link: https:
 
 Made with ❤️ using HTML, CSS, and JavaScript.
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx/deploy-status)](https://app.netlify.com/sites/budget-tracker-javascript/deploys)
-
 ---
 
 <p align="center">
