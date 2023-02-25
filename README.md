@@ -1,18 +1,18 @@
-# Budget Tracker Site
+# 💰 Budget Tracker Site
 
 This website is a budget tracker that allows users to add and track their income and expenses. It is built using HTML, CSS, and JavaScript, and it uses local storage to store the data.
 
-## Features
+## 🚀 Features
 
 The budget tracker site has the following features:
 
-- Add Transaction: Users can add a transaction by entering a description and the amount. If the amount is negative, it is considered as an expense, otherwise, it is considered as income. The transaction is added to the history and the balance is updated accordingly.
+- 💸 Add Transaction: Users can add a transaction by entering a description and the amount. If the amount is negative, it is considered as an expense, otherwise, it is considered as income. The transaction is added to the history and the balance is updated accordingly.
 
-- Transaction History: The site displays a history of every transaction, separated into income and expense columns. Users can also delete any transaction by clicking the delete button.
+- 📜 Transaction History: The site displays a history of every transaction, separated into income and expense columns. Users can also delete any transaction by clicking the delete button.
 
-- Statistics: The site displays the current balance, total income, and total expenses in a statistics section.
+- 📊 Statistics: The site displays the current balance, total income, and total expenses in a statistics section.
 
-## How to Use
+## 📖 How to Use
 
 To use the budget tracker site, follow these steps:
 
@@ -24,24 +24,34 @@ To use the budget tracker site, follow these steps:
 
 4. Your transaction will be displayed in the history with the total income, total expenses, and balance updated accordingly.
 
-5. To delete a transaction, click the delete button next to the transaction in the history section.
+5. To delete a transaction, click the delete icon next to the transaction in the history section.
 
-6. To view the statistics, scroll down to the statistics section.
-
-## Link to Site
-
-You can access the budget tracker site by clicking on the following link: https://budget-tracker-javascript.netlify.app/
-
-## Technologies Used
+## 🔧 Technologies Used
 
 - HTML
 - CSS
 - JavaScript
 
-## Local Storage
+## 💾 Local Storage
 
 The budget tracker site uses local storage to store the data. This means that the data will be saved on the user's computer even if they close the browser or navigate away from the site. The data is stored as a JSON string in local storage, and it is parsed and displayed on the screen when the user returns to the site.
 
-## Credits
+## 🙏 Credits
 
-This site was created by Ayush Anand Tripathi.
+This site was created by **Ayush Anand Tripathi**
+
+## 🔗 Link to Site
+
+You can access the budget tracker site by clicking on the following link: https://budget-tracker-javascript.netlify.app/
+
+---
+
+Made with ❤️ using HTML, CSS, and JavaScript.
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx/deploy-status)](https://app.netlify.com/sites/budget-tracker-javascript/deploys)
+
+---
+
+<p align="center">
+  <img src="https://media.giphy.com/media/26DNegwfzaM9XNK1a/giphy.gif" alt="Budget Tracker Animation">
+</p>
