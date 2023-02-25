@@ -49,7 +49,3 @@ You can access the budget tracker site by clicking on the following link: https:
 Made with ❤️ using HTML, CSS, and JavaScript.
 
 ---
-
-<p align="center">
-  <img src="https://media.giphy.com/media/26DNegwfzaM9XNK1a/giphy.gif" alt="Budget Tracker Animation">
-</p>
